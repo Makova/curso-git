@@ -1,3 +1,5 @@
+#Curso sobre Git para Club de Robótica Granada
+
 ##Obtener Ayuda
 
 Lo primero que necesitamos a la hora de enfrentarnos a las dificultades es conocer nuetras herramientas.
