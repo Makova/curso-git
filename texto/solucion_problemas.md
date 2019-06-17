@@ -1,6 +1,6 @@
-#Curso sobre Git para Club de Robótica Granada
+# Curso sobre Git para Club de Robótica Granada
 
-##Obtener Ayuda
+## Obtener Ayuda
 
 Lo primero que necesitamos a la hora de enfrentarnos a las dificultades es conocer nuetras herramientas.
 
@@ -12,7 +12,7 @@ también se puede obtener ayuda de un comado concreto con `git help COMANDO`, po
 
 `git help commit`
 
-##Viendo el historial
+## Viendo el historial
 
 Has hecho una serie de modificaciones seguidas de commits con sus comentarios ¿Cómo puedes ver todo eso? Para ello tienes la instrucción
 
@@ -68,7 +68,7 @@ En git se pueden borrar archivos con la orden `git rm`.
 
 `git rm NOMBRE_DEL_FICHERO`
 
-FUnciona como la propia orden del sistema operativo, con la salvedad de que *tambien* borra el archivo del Index, si estuviera allí. Esto lo hace muy útil en ocasiones.
+Funciona como la propia orden del sistema operativo, con la salvedad de que *tambien* borra el archivo del Index, si estuviera allí. Esto lo hace muy útil en ocasiones.
 
 Si necesitas borrar el archivo del Indez pero sin borrarlo de DIrectorio de trabajo (porque, por ejemplo, te has arrepentido y no quieres incluírlo en el próximo commit), se puede hacer con la opción `--cached` del siguiente modo:
 
