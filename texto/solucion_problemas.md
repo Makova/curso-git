@@ -1,6 +1,6 @@
-#Curso sobre Git para Club de Robótica Granada
+# Curso sobre Git para Club de Robótica Granada
 
-##Obtener Ayuda
+## Obtener Ayuda
 
 Lo primero que necesitamos a la hora de enfrentarnos a las dificultades es conocer nuetras herramientas.
 
@@ -12,7 +12,7 @@ también se puede obtener ayuda de un comado concreto con `git help COMANDO`, po
 
 `git help commit`
 
-##Viendo el historial
+## Viendo el historial
 
 Has hecho una serie de modificaciones seguidas de commits con sus comentarios ¿Cómo puedes ver todo eso? Para ello tienes la instrucción
 
